@@ -1,0 +1,500 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+.quicksand-hi{
+    font-family: "Quicksand", serif;
+    font-optical-sizing: auto;
+    font-weight:500;
+    font-style: normal;
+    
+    
+ }
+ body{
+    background-image: url(assets/bg.png);
+    width: 1300px;
+    height: 1200px;
+    /margin-left: 50px;*/
+    
+ }
+ .line{
+
+ }
+.head-main{
+    width: 1200px;
+    height: 80px;
+    display: flex;
+    
+    justify-content: space-evenly;
+    max-width:1300px ;
+}
+
+.svg{
+    color: rgb(11, 0, 0);
+    width: 30px;
+    height: 30px;
+    margin-right: 50px;
+    margin-bottom: 10px;
+}
+.h{
+    display: flex;
+}
+.head-img{
+    margin-top: 10px;
+    margin-left: 100px;
+    width: 50px;
+    height: 50px;
+}
+.h-6{
+    color: rgb(17, 17, 17);
+    font-weight: 700;
+    font-size: 26px;
+    width: 125px;
+    margin: 20px;  
+}
+.h-h{
+    color: rgb(254, 163, 1);
+    font-weight: 700;
+    font-size: 18px;
+    width: 50px;
+  
+}
+.h-a{
+    color:rgb(1, 172, 253) ;
+    font-weight: 700;
+    font-size: 18px;
+    width: 50px;  
+}
+.h-f{
+    color:rgb(5, 212, 223);
+    font-weight: 700;
+    font-size: 18px;
+    width: 50px;  
+}
+.h-ad{
+    color:rgb(93, 88, 239) ;
+    font-weight: 700;
+    font-size: 18px;
+    width: 50px;  
+}
+.he{
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+    text-align: center;
+}
+.heaa{
+width:300px ;
+height: 65px;
+text-align: center;
+align-content: center;
+}
+.hea{
+    color:white ;
+    font-weight: 700;
+    font-size: 17px;
+    width: 102px;
+    height: 35px;
+    border-radius: 5px;
+    border: none;
+    margin-right: 50px;
+background-color: rgb(254, 163, 1);
+}
+/*empower*/
+.em-h1{
+    
+    font-weight: 600;
+    font-size: 20px;
+    width: 640px;
+    height: 170px;
+
+}
+.se{
+color:rgb(254, 163, 1) ;
+} 
+.ss{
+   color:  rgb(17, 17, 17);
+}
+.st{
+    color:rgb(1, 172, 253) ;
+} 
+.em-p{
+    width: 380px;
+    height: 60px;
+    font-weight:400;
+    font-size: 12px;
+    color:rgb(17, 17, 17) ;
+    gap: 50px;
+}
+.em-h1-p-b{
+    width: 600px;
+    
+}
+.em-button{
+    width: 140px;
+    height: 35px;
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    
+}
+.empowering{
+   /* width:1200px;*/
+   width: auto;
+    height: 450px; 
+    display: flex;
+    justify-content: center;
+}
+.empower-im{
+    width: 400px;
+    height: 400px;
+    
+}
+.empower-img{
+    
+}
+.stand{
+    width: 1300px;
+    height: 75px;
+    color: black;
+    font-weight: 700;
+    font-size: 45px;
+    text-align: center;
+}
+.Standard-Curriculum{
+    width: 1300px;
+    height: 650px;
+}
+.three{
+width: 1260px;
+height: 350px;
+display: flex;
+justify-content: center;
+ padding: 60px 0px 60px 0px;
+gap: 50px;
+}
+
+.kinder{
+    width: 307px;
+    height: 350px;
+    background: linear-gradient(rgb(222, 245, 255) , rgba(255, 255, 255, 0) );
+    stroke: 0.94px	Inside
+    rgb(222, 245, 255);
+    box-shadow: 0 0 200.3px 0.94px rgba(0, 0, 0, 0.05) ;
+    justify-items: center;
+    border-radius: 10px;
+}
+.kinder-1{
+    width: 140px;
+    height: 140px;
+    justify-content: center;
+    
+}
+.kinder-h{
+    width: 210px;
+    height: 30px;
+    color: black;
+    font-weight: 700;
+    font-size: 20px;
+    text-align: center;  
+}
+
+.kinder-p{
+    width: 270px;
+    height: 40px;
+    color: rgb(128, 128, 128);
+    font-weight: 500;
+    font-size: 10px;
+    text-align: center; 
+}
+.kinder-b{
+border: none;
+background-color: white;
+ text-align: center;
+    font-weight: 500;
+    font-size: 10px;
+    color:rgb(100, 200, 255) ;
+}
+.kinder-bb{
+ 
+ 
+}
+.elemen{
+    width: 307px;
+    height: 350px;
+    background: linear-gradient(rgb(255, 244, 220), rgba(255, 255, 255, 0) );
+    stroke: 0.94px	Inside
+    rgb(255, 244, 220);
+    box-shadow: 0 0 200.3px 0.94px rgba(0, 0, 0, 0.05) ;
+    justify-items: center;
+    border-radius: 10px;  
+}
+.elemen-1{
+    width: 140px;
+    height: 140px;
+    justify-content: center;
+    
+}
+.elemen-h{
+    width: 210px;
+    height: 30px;
+    color: black;
+    font-weight: 700;
+    font-size: 20px;
+    text-align: center;  
+}
+.elemen-p{
+    width: 270px;
+    height: 40px;
+    color: rgb(128, 128, 128);
+    font-weight: 500;
+    font-size: 10px;
+    text-align: center; 
+}
+.elemen-b{
+    background-color: rgb(250, 249, 249);
+    font-weight: 500;
+    font-size: 10px;
+    align-items: center;
+    border: none;
+    color:rgb(240, 170, 0) ;
+
+}
+.middle{
+    width: 307px;
+    height: 350px;
+    background: linear-gradient(rgb(238, 225, 255) , rgba(255, 255, 255, 0) );
+    stroke: 0.94px	Inside
+    rgb(242, 232, 255);
+    box-shadow: 0 0 200.3px 0.94px rgba(0, 0, 0, 0.05) ;
+    justify-items: center;
+    border-radius: 10px;
+}
+.middle-1{
+    width: 140px;
+    height: 140px;
+    justify-content: center;
+    
+}
+.middle-h{
+    width: 210px;
+    height: 30px;
+    color: black;
+    font-weight: 700;
+    font-size: 20px;
+    text-align: center;  
+}
+
+.middle-p{
+    width: 270px;
+    height: 40px;
+    color: rgb(128, 128, 128);
+    font-weight: 500;
+    font-size: 10px;
+    text-align: center; 
+}
+.middle-b{
+    background-color: white;
+    font-weight: 500;
+    font-size: 10px;
+    align-items: center;
+    border: none;
+    color:rgb(135, 0, 255) ;
+}
+.che{
+    
+    width: 30px;
+    height: 30px;
+    color: white;
+    background-color: rgb(254, 163, 1);
+    border-radius: 20px;
+}
+.chev{
+    
+    text-align: center;
+    width: 1300px;
+    height: 40px;
+    gap: 10px;
+    
+}
+.stories{
+    width: 1200px;
+    height: 1400px;
+    background-color: chartreuse;
+    margin: 0 auto;
+}
+.story-flex{
+    display: flex;
+}
+.five{
+    display: grid;
+    grid-template-columns: repeat(3 , 1fr);
+}
+.sto-h3{
+  
+    color: rgb(0, 0, 0);
+    font-weight: 700;
+    font-size: 40px;
+    text-align: center;
+    padding:60px, 0px, 60px, 0px ;
+}
+.stories-pic-b-h6-p-1{
+   width: 500px; 
+   height: 630px;
+   background-color: white;
+   border-radius: 20px;
+   margin-left: 20px;
+}
+.img-1{
+    width: 500px;
+    border-radius: 20px;
+}
+.story-b-1{
+position: relative;
+top: -40px;
+color:rgb(255, 255, 255) ;
+background-color:rgb(60, 216, 232) ;
+border: none;
+border-radius: 20px;
+width:174px ;
+height: 45px;
+font-weight: 500px;
+font-size: 14px;
+margin-left: 38px;
+margin-top: 10px;
+}
+.story-h6-1{
+width: 400px;
+height: 65px;
+font-weight: 700px;
+font-size: 22px;
+margin-left: 38px;
+}
+.story-p-1{
+    width: 400px;
+    height: 70px;
+    font-weight: 500;
+    font-size: 15px;
+    margin-top: 30px;
+    margin-left: 38px;
+}
+
+.stories-pic-b-h6-p-2{
+    width: 290px; 
+    height: 300px;
+    background-color: white;
+    border-radius: 20px;
+    margin-left: 20px;
+ }
+ .img-2{
+    width: 290px;
+    border-radius: 20px;
+    
+}
+.story-b-2{
+    position: relative;
+top: -40px;
+color:rgb(255, 255, 255) ;
+background-color:rgb(149, 178, 38) ;
+border: none;
+border-radius: 20px;
+width:174px ;
+height: 45px;
+font-weight: 500px;
+font-size: 14px;
+margin-left: 38px;
+margin-top: 5px;
+}
+.story-h6-2{
+width: 170px;
+height: 65px;
+font-weight: 700px;
+font-size: 15px;
+margin-left: 38px;
+}
+.stories-pic-b-h6-p-3{
+    width: 290px; 
+    height: 300px;
+    background-color: white;
+    border-radius: 20px;
+    margin-left: 20px;
+ }
+ .img-3{
+    width: 290px;
+    border-radius: 20px;
+    
+}
+.story-b-3{
+    position: relative;
+    top: -40px;  
+color:rgb(255, 255, 255) ;
+background-color:rgb(93, 88, 240) ;
+border: none;
+border-radius: 20px;
+width:174px ;
+height: 45px;
+font-weight: 500px;
+font-size: 14px;
+margin-left: 38px;
+margin-top: 5px;
+}
+.story-h6-3{
+width: 180px;
+height: 65px;
+font-weight: 700px;
+font-size: 15px;
+margin-left: 38px;
+}
+
+
+
+
+
+
+
+
+@media only screen and (min-width: 577px) {
+.svg{
+    display: none;
+}
+}
+@media only screen and (max-width: 576px) {
+.h-6 , .he , .hea , .chev{
+    display: none;
+
+}
+.empowering{
+     flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    /*width: 500px;*/
+    width: auto;
+    height: 725px;
+}
+.em-p{
+    margin-left: 80px;
+    width: 400px;
+    height: 50px;
+    justify-content: center;
+}
+.head-main{
+    width: 576px;
+}
+.three{
+    width: 350px;
+    height:auto ;
+    display: grid;
+    grid-template-columns: repeat(1 , 1fr);
+    grid-template-rows: repeat(1 , 1fr);
+
+}
+.Standard-Curriculum{
+    height: 1500px;
+    width: 500px;
+    justify-items: center;
+    padding: 10px 10px 10px 10px;
+}
+.stand{
+    width: 500px;
+    height: 53px;
+}
+}
